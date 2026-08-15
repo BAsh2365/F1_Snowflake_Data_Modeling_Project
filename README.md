@@ -22,10 +22,10 @@ The ML team says that the data needs to include:
 
 You then develop a plan to find the relevant data. You also need to ask the right questions for the business/data stakeholders, such as:
 
-  -  How should the data be formatted for the ML model?
-  -  Can it handle Categorical and Numerical data?
+  -  How should the data be formatted for the ML model? Can it handle Categorical and Numerical data?
+  -  What does the logical data model look like to you? 
   -  What other metrics would you consider? 
-  - How granular does the data need to be? (real time? data snapshots?)
+  -  How granular does the data need to be? (real time? data snapshots?)
   -  What statistical measures are you looking for (average, median, mode, etc.)?
   -  What are the top 5 factors that we will showcase when marketing these projections?
 
@@ -37,6 +37,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
   - Data Warehousing
   - Data governance (quality checks)
   - Data ingestion
+  - Data modeling processes (logical, conceptual, and physical)
   - BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
 
 ## Resources
