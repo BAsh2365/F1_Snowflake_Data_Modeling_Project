@@ -26,17 +26,27 @@ You then come up with a plan to:
 
 - Ask the right questions for the business/data stakeholders, such as:
   -- How should the data be formatted for the ML model?
+  
   -- Can it handle Categorical and Numerical data?
+  
   -- What other metrics would you consider?
+  
   -- What statistical measures are you looking for (average, median, mode, etc.)?
+  
   -- What are the top 5 factors that we will showcase when marketing these projections?
+  
 
  Now that you're ready, you consult Snowflake documentation + read up on general data modeling concepts like:
     -- Star Schema
+    
     -- SQL review (CTEs, JOINs, etc.)
+    
     -- Data Warehousing
-    -- Data governance (quality checks) 
+    
+    -- Data governance (quality checks)
+    
     -- Data ingestion
+    
     -- BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
 
 ## Resources
