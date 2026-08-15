@@ -8,7 +8,7 @@ Created a Snowflake Warehouse and Database for data modeling (including dimensio
 
 ## Case Study Scenario
 
-You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer, and you are tasked with building out data tables before handing them off to the machine learning/analytics team for predictive modeling. The ML prediction model generates in-house race projections for pundits/analysts, and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
+You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer, and you are tasked with building out data tables before handing them off to the machine learning/analytics team for predictive modeling. The ML prediction model generates in-house race projections for pundits/analysts and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
 
 The ML team says that the data needs to include:
 
@@ -21,25 +21,23 @@ The ML team says that the data needs to include:
 - Anything else you can find!
 
 You then develop a plan to find the relevant data. You also need to ask the right questions for the business/data stakeholders, such as:
+\\\
+  -  How should the data be formatted for the ML model?
+  -  Can it handle Categorical and Numerical data?
+  -  What other metrics would you consider?
+  -  What statistical measures are you looking for (average, median, mode, etc.)?
+  -  What are the top 5 factors that we will showcase when marketing these projections?
+\\\
 
-  -- How should the data be formatted for the ML model?
-  
-  -- Can it handle Categorical and Numerical data?
-  
-  -- What other metrics would you consider?
-  
-  -- What statistical measures are you looking for (average, median, mode, etc.)?
-  
-  -- What are the top 5 factors that we will showcase when marketing these projections?
-  
-
- Now that you're ready, you consult Snowflake documentation + read up on general data modeling concepts like:
-    -- Star Schema
-    -- SQL review (CTEs, JOINs, etc.)
-    -- Data Warehousing
-    -- Data governance (quality checks)
-    -- Data ingestion
-    -- BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
+Now that you're ready to get started, you'll consult Snowflake documentation + read up on general data modeling concepts like:
+\\\
+    - Star Schema
+    - SQL review (CTEs, JOINs, etc.)
+    - Data Warehousing
+    - Data governance (quality checks)
+    - Data ingestion
+    - BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
+\\\
 
 ## Resources
 
