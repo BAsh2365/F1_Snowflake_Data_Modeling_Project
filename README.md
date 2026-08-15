@@ -41,7 +41,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
 
 ## Resources
 
-- Use of Snowflake CoCo Agent for data indentation and semantic syntax errors
+- Use of Snowflake CoCo Agent for SQL CTE indentation and semantic syntax errors
 
 - https://www.geeksforgeeks.org/software-testing/fact-table/
 
