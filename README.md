@@ -50,6 +50,10 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
 
 - https://docs.snowflake.com/en/user-guide/data-load-prepare
 
+- https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2
+
+- https://f1experiences.com/blog/f1-glossary-a-z-most-commonly-used-terminology
+
 - https://www.kaggle.com/datasets/mariyakostyrya/formula-1-weather-info-1950-2024
 
 - https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
