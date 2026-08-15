@@ -11,7 +11,7 @@ Created a Snowflake Warehouse and Database for data modeling (including dimensio
 
 ## Case Study Scenario
 
-You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer. You are tasked with building out data tables that house specific information before handing it off to the machine learning/analytics team for predictive modeling (which will be presented to the board of directors). The ML prediction model generates in-house race projections for pundits/analysts and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
+You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer. You are tasked with building out data tables that house specific information and creating a sample dashboard with example metrics. Finally, you will hand off your findings to the machine learning/analytics team for predictive modeling (which will be presented to the board of directors). The ML prediction model generates in-house race projections for pundits/analysts and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
 
 The ML team says that the data needs to include:
 
@@ -28,7 +28,7 @@ You then develop a plan to find the relevant data. You also need to ask the righ
   -  How should the data be formatted for the ML model? Can it handle Categorical and Numerical data?
   -  What does the logical data model look like to you? 
   -  What other metrics would you consider? 
-  -  How granular does the data need to be? (real time? data snapshots?)
+  -  How granular does the data need to be? (real-time? data snapshots?)
   -  What statistical measures are you looking for (average, median, mode, etc.)?
   -  What are the top 5 factors that we will showcase when marketing these projections?
 
@@ -41,6 +41,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
   - Data governance (quality checks, account permissions)
   - Data ingestion
   - Data modeling processes (logical, conceptual, and physical)
+  - Business intelligence (BI) connectors & Data reporting: Tableau, Power BI, Google Data Studio (recommended here for simplicity), etc. 
   - BONUS: Data orchestration/validation (Airflow, GCP Pub/Sub, AWS, Bruin, etc.)
 
 ## Resources
