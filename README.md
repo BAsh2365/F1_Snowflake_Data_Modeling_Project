@@ -35,7 +35,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
   - Star Schema
   - SQL review (CTEs, JOINs, etc.)
   - Data Warehousing
-  - Data governance (quality checks)
+  - Data governance (quality checks, account permissions)
   - Data ingestion
   - Data modeling processes (logical, conceptual, and physical)
   - BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
