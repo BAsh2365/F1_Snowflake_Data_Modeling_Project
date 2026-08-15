@@ -8,7 +8,7 @@ Created a Snowflake Warehouse and Database for data modeling (including dimensio
 
 ## Case Study Scenario
 
-You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer, and you are tasked with building out data tables before handing them off to the machine learning/analytics team for predictive modeling. The ML prediction model creates in-house race projections for pundits/analysts/anchors, which will contain data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
+You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer, and you are tasked with building out data tables before handing them off to the machine learning/analytics team for predictive modeling. The ML prediction model generates in-house race projections for pundits/analysts, and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
 
 The ML team says that the data needs to include:
 
@@ -20,11 +20,8 @@ The ML team says that the data needs to include:
 - Race Locations
 - Anything else you can find!
 
-You then come up with a plan to:
+You then develop a plan to find the relevant data. You also need to ask the right questions for the business/data stakeholders, such as:
 
-- Find relevant data
-
-- Ask the right questions for the business/data stakeholders, such as:
   -- How should the data be formatted for the ML model?
   
   -- Can it handle Categorical and Numerical data?
@@ -37,6 +34,7 @@ You then come up with a plan to:
   
 
  Now that you're ready, you consult Snowflake documentation + read up on general data modeling concepts like:
+ 
     -- Star Schema
     
     -- SQL review (CTEs, JOINs, etc.)
