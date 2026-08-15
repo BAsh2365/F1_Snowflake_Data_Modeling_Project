@@ -1,10 +1,13 @@
 # F1_Snowflake_Data_Modeling_Project
 
-<img width="7050" height="10005" alt="Snowflake_Data_Modeling_Project" src="https://github.com/user-attachments/assets/0db3415d-1205-47e9-9a63-6457e2f8c632" />
+<img width="7050" height="10035" alt="F1_Snowflake_Data_Modeling_Project" src="https://github.com/user-attachments/assets/0ffe78cf-685f-41fa-9107-8659ab806359" />
+
+<img width="1200" height="846" alt="image" src="https://github.com/user-attachments/assets/f834dda9-9d94-49b2-a284-2c5d623c4def" />
+
 
 Created a Snowflake Warehouse and Database for data modeling (including dimension and fact tables) for analytics/ML use.
 
-**Architecture: CSV load --> Snowflake Warehouse --> F1 Database --> Data Cleaning (Transformations) --> Dim JOINs --> fact tables ready for use**. 
+**Architecture: CSV load --> Snowflake Warehouse --> F1 Database --> Data Cleaning (Transformations) --> Dim JOINs --> fact tables ready for use --> Example Dashbaord with Google Data Studio + Snowflake BI connector**. 
 
 ## Case Study Scenario
 
