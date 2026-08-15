@@ -38,7 +38,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
   - Data governance (quality checks, account permissions)
   - Data ingestion
   - Data modeling processes (logical, conceptual, and physical)
-  - BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
+  - BONUS: Data orchestration/validation (Airflow, GCP Pub/Sub, AWS, Bruin, etc.)
 
 ## Resources
 
