@@ -24,7 +24,8 @@ You then develop a plan to find the relevant data. You also need to ask the righ
 
   -  How should the data be formatted for the ML model?
   -  Can it handle Categorical and Numerical data?
-  -  What other metrics would you consider?
+  -  What other metrics would you consider? 
+  - How granular does the data need to be? (real time? data snapshots?)
   -  What statistical measures are you looking for (average, median, mode, etc.)?
   -  What are the top 5 factors that we will showcase when marketing these projections?
 
