@@ -34,17 +34,11 @@ You then develop a plan to find the relevant data. You also need to ask the righ
   
 
  Now that you're ready, you consult Snowflake documentation + read up on general data modeling concepts like:
- 
     -- Star Schema
-    
     -- SQL review (CTEs, JOINs, etc.)
-    
     -- Data Warehousing
-    
     -- Data governance (quality checks)
-    
     -- Data ingestion
-    
     -- BONUS: Data orchestration (Airflow, GCP Pub/Sub, AWS, etc.)
 
 ## Resources
