@@ -75,7 +75,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
 ## Note
 
 The star schema have been deisgned based on domain knowledge and creative thinking. Understanding WHY these dimension tables need to be joined together, and HOW the code acheives this is more important than ever.
-As I improve my SQL, and dive into more advanced concepts in Analytics/Data Engineering, I will always keep this idea in my mind as I continue to learn and architect these systems.
+As I improve my SQL, and dive into more advanced concepts in Analytics/Data Engineering, I will always keep this idea in my mind (as I continue to learn and architect these systems).
 
 The process I follow:
 
