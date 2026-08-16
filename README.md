@@ -7,7 +7,7 @@
 
 Created a Snowflake Warehouse and Database for data modeling (including dimension and fact tables) for analytics/ML use.
 
-**Architecture: CSV load --> Snowflake Warehouse --> F1 Database --> Data Cleaning (Transformations) --> Dim JOINs --> fact tables ready for use --> Example Dashboard with Google Data Studio + Snowflake BI connector**. 
+**Architecture: CSV load --> Snowflake Warehouse --> F1 Database --> Data Cleaning (Transformations) --> Dim JOINs --> fact tables ready for use --> Example Dashboard with Pit Stop Data using Google Data Studio + Snowflake BI connector**. 
 
 ## Case Study Scenario
 
