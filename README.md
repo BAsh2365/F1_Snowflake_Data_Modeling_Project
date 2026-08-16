@@ -85,4 +85,4 @@ The process I follow:
 
 - Understand how the data is shaped and its potential interactions.
 
-- Present the impact of your project/solution in the lenses of how it helps the end user.
+- Present the impact of your project/solution from the persoective of how it helps the end user.
