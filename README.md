@@ -66,6 +66,7 @@ Now that you're ready to get started, you'll consult Snowflake documentation + r
 
 - https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
+- https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/
 
 ## Other resources (not used here but helpful for learning)
 
