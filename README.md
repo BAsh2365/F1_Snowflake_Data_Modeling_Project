@@ -1,6 +1,6 @@
 # F1_Snowflake_Data_Modeling_Project
 
-<img width="7050" height="10035" alt="F1_Snowflake_Data_Modeling_Project" src="https://github.com/user-attachments/assets/0ffe78cf-685f-41fa-9107-8659ab806359" />
+<img width="3760" height="5894" alt="F1_Snowflake_Data_Modeling_Project (1)" src="https://github.com/user-attachments/assets/58326564-5fd1-48e0-8538-acd6fe6247c8" />
 
 <img width="1200" height="846" alt="image" src="https://github.com/user-attachments/assets/f834dda9-9d94-49b2-a284-2c5d623c4def" />
 
