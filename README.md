@@ -32,7 +32,7 @@ You then develop a plan to find the relevant data. You also need to ask the righ
   -  How granular does the data need to be? (real-time? data snapshots?), does it need to be updated frequently?
   -  What specific statistical measures are you looking for (average, median, mode, etc.)?
   -  What are the top 5 factors that we will showcase when marketing these projections?
-  -  In one to two sentences: can you explain your TARGET variable, and your FEATURES, and what you are trying to find? 
+  -  In one to two sentences: can you explain your TARGET variable, your FEATURES, and what you are trying to find? 
   -  Do we need to consider seaonality? Spikes? Time Series splits (Lags, temporal T/T/S)? Anything else?
 
 
