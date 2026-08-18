@@ -33,6 +33,8 @@ You then develop a plan to find the relevant data. You also need to ask the righ
   -  How granular does the data need to be? (real-time? data snapshots?)
   -  What statistical measures are you looking for (average, median, mode, etc.)?
   -  What are the top 5 factors that we will showcase when marketing these projections?
+  - In one to two sentences: can you explain your TARGET variable, and your FEATURES, and what your're trying to find? 
+  - Do we need to consider seaonality? Spikes? Time Series splits (Lags, temporal T/T/S)? Anything else?
 
 
 Now that you're ready to get started, you'll consult Snowflake documentation + read up on general data modeling concepts like:
