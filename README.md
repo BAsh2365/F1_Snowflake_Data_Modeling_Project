@@ -11,7 +11,7 @@ Created a Snowflake Warehouse and Database for data modeling (including dimensio
 
 ## Case Study Scenario
 
-You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer. You are tasked with building out data tables that house specific information and creating a sample dashboard with example metrics. Then, you will hand off your findings to the machine learning team for predictive modeling (which will be presented to the board of directors). The ML prediction model generates in-house race projections for pundits/analysts and anchors, including data for each F1 team. The board of directors may also use this data to determine the next Grand Prix location.
+You work for the Formula One Federation (Fédération Internationale de l'Automobile) Data team as an analytics engineer. You are tasked with building out data tables that house specific information and creating a sample dashboard with example metrics. Then, you will hand off your findings to the machine learning team for predictive modeling (which will be presented to the board of directors). The ML prediction model generates in-house race projections for pundits/analysts and anchors, including data for each F1 team, seasonal metrics, and course correcting pit stop data. The board of directors may also use this data to determine the next Grand Prix location.
 
 The data must be analytics ready (like gold mart analytics if you think about medallion architecture), and you need to be available to answer any questions about the data.
 
